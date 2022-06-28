@@ -1,0 +1,8 @@
+@media only screen or (max-width:992px) {
+.greeting{
+    margin-left: 1000px;
+    text-align:left;
+    font-size: 44px;
+    width:450px;
+}
+}
